@@ -1,0 +1,26 @@
+[ 
+	{
+	  "category" : "IT",
+	  "city" : "Bangalore",
+	  "company" : "Nivaata Systems",
+	  "description" : "Location Services",
+	  "email" : "sales@nivaata.com",
+	  "phone" : 1234567890,
+	  "state" : "Karnataka",
+	  "street_address" : "Indiranagar Double Road",
+	  "years_in_busines" : 10,
+	  "zipcode" : 560038
+	},
+	{
+	  "category" : "Retail",
+	  "city" : "Bangalore",
+	  "company" : "Innoviti",
+	  "description" : "POS Services",
+	  "email" : "sales@innovit.com",
+	  "phone" : 1234567890,
+	  "state" : "Karnataka",
+	  "street_address" : "Ulsoor",
+	  "years_in_busines" : 7,
+	  "zipcode" : 560032
+	}
+]
